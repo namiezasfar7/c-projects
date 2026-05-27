@@ -5,17 +5,17 @@ C programming from beginner to advanced level.
 
 ## 📁 Project Structure
 c-projects/
-├── beginner/
-│   ├── countdown/
-│   ├── sum-of-n/
-│   ├── temperature-converter/
-│   ├── number-guessing-game/
-│   └── prime-number-calculator/
-├── intermediate/
-│   ├── calculator/
-│   └── quiz/
-└── advanced/
-    └── atm-machine/
+- beginner/
+    - countdown/
+    - sum-of-n/
+    - temperature-converter/
+    - number-guessing-game/
+    - prime-number-calculator/
+- intermediate/
+    - calculator/
+    - quiz/
+- advanced/
+    - atm-machine/
 
 ## 🗂️ Projects Overview
 
