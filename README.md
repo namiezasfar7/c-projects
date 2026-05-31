@@ -32,6 +32,7 @@ c-projects/
 
 ### 🟠 Advanced
 - ATM Machine : Simulates ATM operations with balance
+- Digital Clock : Simulates a digital clock in 24 hour standard
 
 ## 🛠️ How to Run Any Project
 1. Make sure you have GCC compiler installed
