@@ -16,6 +16,7 @@ c-projects/
     - quiz/
 - advanced/
     - atm-machine/
+    - digital-clock/
 
 ## 🗂️ Projects Overview
 
