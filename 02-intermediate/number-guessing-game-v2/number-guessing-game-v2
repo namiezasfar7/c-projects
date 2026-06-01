@@ -1,0 +1,76 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+//MAIN FUNCTION
+int main(){
+    //DECLARE VARIABLES
+    int choice = 0;
+    int min = 1, max = 0;
+    
+    //RANDOM SEED
+    srand(time(NULL));
+    
+    do{
+
+        int guess = 0, tries = 0;
+
+        //GET USER INPUT
+        printf("\n---NUMBER GUESSING GAME---\n");
+        printf("\n1. Easy (1 - 10)");
+        printf("\n2. Medium (1 - 50)");
+        printf("\n3. Hard (1 - 100)");
+        printf("\n4. Exit\n");
+
+        printf("Enter Choice : ");
+        scanf("%d", &choice);
+
+        switch(choice){
+            case 1:
+                max = 10;
+                break;
+            case 2:
+                max = 50;
+                break;
+            case 3:
+                max = 100;
+                break;
+            case 4:
+                printf("\nThanks For Playing!");
+                continue;
+            default:
+                printf("\nInvalid Choice!");
+                continue;
+        }
+
+        //RANDOM PSEUDO-NUMBER GENERATOR
+        int answer = (rand() % (max - min + 1)) + min;
+    
+        //LOOP UNTIL ANSWER IS CORRECT
+        do{
+            //GET USER INPUT
+            printf("Guess a Number Between %d - %d : ", min, max);
+            scanf("%d", &guess);
+            tries ++;
+        
+            //GIVE HINTS
+            if(guess > answer){
+                printf("TOO HIGH!\n");
+            }
+            else if(guess < answer){
+                printf("TOO LOW!\n");
+            }
+            else{
+                printf("CORRECT!\n");
+            }
+        
+        }while(guess != answer);
+    
+        //PRINT OUTPUT
+        printf("The Answer is %d", answer);
+        printf("\nIt Took You %d Tries\n", tries);
+
+    }while(choice != 4);
+    
+    return 0;
+}
