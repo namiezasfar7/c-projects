@@ -11,9 +11,12 @@ c-projects/
     - temperature-converter/
     - number-guessing-game/
     - prime-number-calculator/
+    - student-grade-calculator/
 - intermediate/
     - calculator/
     - quiz/
+    - dice-rolling-simulator/
+    - number-guessing-game-v2/
 - advanced/
     - atm-machine/
     - digital-clock/
@@ -26,10 +29,13 @@ c-projects/
 - Temperature Converter : Converts Celsius to Fahrenheit and vice versa
 - Number Guessing Game : Guess the randomly generated number
 - Prime Number Calculator : Checks if a number is prime
+- Student Grade Calculator : Calculates total, average and grade of a student
 
 ### 🟡 Intermediate
 - Calculator : Performs basic arithmetic operations
 - Quiz : Multiple choice quiz with scoring
+- Dice Rolling Simulator : Rolls random numbers 1 - 6
+- Number Guessing Game v2 : Guess the randomly generated number with difficulties
 
 ### 🟠 Advanced
 - ATM Machine : Simulates ATM operations with balance
