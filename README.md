@@ -12,14 +12,17 @@ c-projects/
     - number-guessing-game/
     - prime-number-calculator/
     - student-grade-calculator/
+    - multiplication-table-generator/
 - intermediate/
     - calculator/
     - quiz/
     - dice-rolling-simulator/
     - number-guessing-game-v2/
+    - covid-case-calculator/
 - advanced/
     - atm-machine/
     - digital-clock/
+    - hospital-patient-manager/
 
 ## 🗂️ Projects Overview
 
@@ -30,16 +33,19 @@ c-projects/
 - Number Guessing Game : Guess the randomly generated number
 - Prime Number Calculator : Checks if a number is prime
 - Student Grade Calculator : Calculates total, average and grade of a student
+- Multiplication Table Generator : Generates products of user entered number and 1 to 15
 
 ### 🟡 Intermediate
 - Calculator : Performs basic arithmetic operations
 - Quiz : Multiple choice quiz with scoring
 - Dice Rolling Simulator : Rolls random numbers 1 - 6
 - Number Guessing Game v2 : Guess the randomly generated number with difficulties
+- Covid Case Calculator : Finds total, average, minimum and maximum of covid cases per year
 
 ### 🟠 Advanced
 - ATM Machine : Simulates ATM operations with balance
 - Digital Clock : Simulates a digital clock in 24 hour standard
+- Hospital Patient Manager : Finds total, average, minimum and maximum of patients using dynamic memory
 
 ## 🛠️ How to Run Any Project
 1. Make sure you have GCC compiler installed
