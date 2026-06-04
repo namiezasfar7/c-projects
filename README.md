@@ -13,12 +13,15 @@ c-projects/
     - prime-number-calculator/
     - student-grade-calculator/
     - multiplication-table-generator/
+    - number-statistics-analyzer/
 - intermediate/
     - calculator/
     - quiz/
     - dice-rolling-simulator/
     - number-guessing-game-v2/
     - covid-case-calculator/
+    - calculator-v2/
+    - student-attendance-tracker/
 - advanced/
     - atm-machine/
     - digital-clock/
@@ -34,6 +37,7 @@ c-projects/
 - Prime Number Calculator : Checks if a number is prime
 - Student Grade Calculator : Calculates total, average and grade of a student
 - Multiplication Table Generator : Generates products of user entered number and 1 to 15
+- Number Statistics Analyzer : Finds largest, smallest, total and average of 10 numbers
 
 ### 🟡 Intermediate
 - Calculator : Performs basic arithmetic operations
@@ -41,6 +45,8 @@ c-projects/
 - Dice Rolling Simulator : Rolls random numbers 1 - 6
 - Number Guessing Game v2 : Guess the randomly generated number with difficulties
 - Covid Case Calculator : Finds total, average, minimum and maximum of covid cases per year
+- Calculator v2 : Performs basic arithmetic operations but better
+- Student Attendance Tracker : Finds attendance percentage for students
 
 ### 🟠 Advanced
 - ATM Machine : Simulates ATM operations with balance
