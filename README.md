@@ -22,10 +22,12 @@ c-projects/
     - covid-case-calculator/
     - calculator-v2/
     - student-attendance-tracker/
+    - rock-paper-scissors-game/
 - advanced/
     - atm-machine/
     - digital-clock/
     - hospital-patient-manager/
+    - employee-salary-manager/
 
 ## 🗂️ Projects Overview
 
@@ -47,11 +49,13 @@ c-projects/
 - Covid Case Calculator : Finds total, average, minimum and maximum of covid cases per year
 - Calculator v2 : Performs basic arithmetic operations but better
 - Student Attendance Tracker : Finds attendance percentage for students
+- Rock Paper Scissors Game : Play rock paper scissors with a computer
 
 ### 🟠 Advanced
 - ATM Machine : Simulates ATM operations with balance
 - Digital Clock : Simulates a digital clock in 24 hour standard
 - Hospital Patient Manager : Finds total, average, minimum and maximum of patients using dynamic memory
+- Employee Salary Manager : Finds total, average, highest and lowest salaries of employees using dynamic memory
 
 ## 🛠️ How to Run Any Project
 1. Make sure you have GCC compiler installed
