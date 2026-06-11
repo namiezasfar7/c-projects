@@ -23,6 +23,7 @@ c-projects/
     - calculator-v2/
     - student-attendance-tracker/
     - rock-paper-scissors-game/
+    - cab-service/
 - advanced/
     - atm-machine/
     - digital-clock/
@@ -51,6 +52,7 @@ c-projects/
 - Calculator v2 : Performs basic arithmetic operations but better
 - Student Attendance Tracker : Finds attendance percentage for students
 - Rock Paper Scissors Game : Play rock paper scissors with a computer
+- Cab Service : Takes inputs for a cab package and prints total bill
 
 ### 🟠 Advanced
 - ATM Machine : Simulates ATM operations with balance
