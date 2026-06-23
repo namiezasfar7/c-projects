@@ -30,6 +30,7 @@ c-projects/
     - hospital-patient-manager/
     - employee-salary-manager/
     - parking-lot-system/
+    - student-record-management-system/
 
 ## 🗂️ Projects Overview
 
@@ -60,6 +61,7 @@ c-projects/
 - Hospital Patient Manager : Finds total, average, minimum and maximum of patients using dynamic memory
 - Employee Salary Manager : Finds total, average, highest and lowest salaries of employees using dynamic memory
 - Parking Lot System : Displays available and occupied slots using arrays
+- Student Record Management System : A student record management system that manages student data
 
 ## 🛠️ How to Run Any Project
 1. Make sure you have GCC compiler installed
@@ -73,6 +75,7 @@ c-projects/
 - Functions
 - Arrays and strings
 - User input handling
+- File handling
 
 ## 👤 Author
 Namiez Asfar
