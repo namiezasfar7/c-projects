@@ -31,6 +31,7 @@ c-projects/
     - employee-salary-manager/
     - parking-lot-system/
     - student-record-management-system/
+    - banking-transaction-logger/
 
 ## 🗂️ Projects Overview
 
@@ -62,6 +63,7 @@ c-projects/
 - Employee Salary Manager : Finds total, average, highest and lowest salaries of employees using dynamic memory
 - Parking Lot System : Displays available and occupied slots using arrays
 - Student Record Management System : A student record management system that manages student data
+- Banking Transaction Logger : A banking transaction logger built in C
 
 ## 🛠️ How to Run Any Project
 1. Make sure you have GCC compiler installed
