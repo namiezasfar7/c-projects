@@ -24,6 +24,7 @@ c-projects/
     - student-attendance-tracker/
     - rock-paper-scissors-game/
     - cab-service/
+    - temperature-analyzer/
 - advanced/
     - atm-machine/
     - digital-clock/
@@ -55,6 +56,7 @@ c-projects/
 - Student Attendance Tracker : Finds attendance percentage for students
 - Rock Paper Scissors Game : Play rock paper scissors with a computer
 - Cab Service : Takes inputs for a cab package and prints total bill
+- Temperature Analyzer : Finds highest, lowest and average of temperatures of a week
 
 ### 🟠 Advanced
 - ATM Machine : Simulates ATM operations with balance
@@ -75,6 +77,7 @@ c-projects/
 - Variables and data types
 - Conditions and loops
 - Functions
+- Pointers
 - Arrays and strings
 - User input handling
 - File handling
