@@ -25,6 +25,7 @@ c-projects/
     - rock-paper-scissors-game/
     - cab-service/
     - temperature-analyzer/
+    - library-book-counter/
 - advanced/
     - atm-machine/
     - digital-clock/
@@ -57,6 +58,7 @@ c-projects/
 - Rock Paper Scissors Game : Play rock paper scissors with a computer
 - Cab Service : Takes inputs for a cab package and prints total bill
 - Temperature Analyzer : Finds highest, lowest and average of temperatures of a week
+- Library Book Counter : A library management simulated in C
 
 ### 🟠 Advanced
 - ATM Machine : Simulates ATM operations with balance
