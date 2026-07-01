@@ -26,6 +26,7 @@ c-projects/
     - cab-service/
     - temperature-analyzer/
     - library-book-counter/
+    - election-vote-counter/
 - advanced/
     - atm-machine/
     - digital-clock/
@@ -59,6 +60,7 @@ c-projects/
 - Cab Service : Takes inputs for a cab package and prints total bill
 - Temperature Analyzer : Finds highest, lowest and average of temperatures of a week
 - Library Book Counter : A library management simulated in C
+- Election Vote Counter : An vote counter machine simulated in C
 
 ### 🟠 Advanced
 - ATM Machine : Simulates ATM operations with balance
