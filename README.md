@@ -35,6 +35,7 @@ c-projects/
     - parking-lot-system/
     - student-record-management-system/
     - banking-transaction-logger/
+    - inventory-system/
 
 ## 🗂️ Projects Overview
 
@@ -70,6 +71,7 @@ c-projects/
 - Parking Lot System : Displays available and occupied slots using arrays
 - Student Record Management System : A student record management system that manages student data
 - Banking Transaction Logger : A banking transaction logger built in C
+- Inventory System : An inventory system that stores, updates and saves products based on user input
 
 ## 🛠️ How to Run Any Project
 1. Make sure you have GCC compiler installed
