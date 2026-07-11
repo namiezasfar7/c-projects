@@ -36,6 +36,7 @@ c-projects/
     - student-record-management-system/
     - banking-transaction-logger/
     - inventory-system/
+    - hotel-reservation-system/
 
 ## 🗂️ Projects Overview
 
@@ -72,6 +73,7 @@ c-projects/
 - Student Record Management System : A student record management system that manages student data
 - Banking Transaction Logger : A banking transaction logger built in C
 - Inventory System : An inventory system that stores, updates and saves products based on user input
+- Hotel Reservation System : A hotel reservation system that manages rooms
 
 ## 🛠️ How to Run Any Project
 1. Make sure you have GCC compiler installed
@@ -87,6 +89,7 @@ c-projects/
 - Arrays and strings
 - User input handling
 - File handling
+- Dynamic memory
 
 ## 👤 Author
 Namiez Asfar
