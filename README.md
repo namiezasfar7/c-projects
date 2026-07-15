@@ -37,6 +37,7 @@ c-projects/
     - banking-transaction-logger/
     - inventory-system/
     - hotel-reservation-system/
+    - employee-payroll-system/
 
 ## 🗂️ Projects Overview
 
@@ -74,6 +75,7 @@ c-projects/
 - Banking Transaction Logger : A banking transaction logger built in C
 - Inventory System : An inventory system that stores, updates and saves products based on user input
 - Hotel Reservation System : A hotel reservation system that manages rooms
+- Employee Payroll System : A simple C-based Employee Payroll System that manages employee salary information, calculates payroll statistics, and generates a payroll report in a text file
 
 ## 🛠️ How to Run Any Project
 1. Make sure you have GCC compiler installed
