@@ -60,6 +60,7 @@ c-projects/
 │   └── temperature-analyzer/
 │
 │── advanced/
+│   ├── airline-reservation-system/
 │   ├── atm-machine/
 │   ├── banking-transaction-logger/
 │   ├── digital-clock/
@@ -116,6 +117,7 @@ c-projects/
 
 | Project | Description |
 |---------|-------------|
+| Airline Reservation System | Simulates airline reservation and management.  |
 | ATM Machine | Simulates ATM operations such as withdrawals, deposits, and balance inquiries. |
 | Digital Clock | Displays a real-time digital clock using the 24-hour format. |
 | Hospital Patient Manager | Manages patient records and calculates statistics using dynamic memory allocation. |
