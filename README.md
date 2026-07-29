@@ -63,6 +63,7 @@ c-projects/
 │   ├── airline-reservation-system/
 │   ├── atm-machine/
 │   ├── banking-transaction-logger/
+│   ├── bus-reservation-system/
 │   ├── digital-clock/
 │   ├── employee-payroll-system/
 │   ├── employee-salary-manager/
@@ -120,6 +121,7 @@ c-projects/
 | Airline Reservation System | Simulates airline reservation and management.  |
 | ATM Machine | Simulates ATM operations such as withdrawals, deposits, and balance inquiries. |
 | Digital Clock | Displays a real-time digital clock using the 24-hour format. |
+| Bus Reservation System | Simulates bus reservation and management.  |
 | Hospital Patient Manager | Manages patient records and calculates statistics using dynamic memory allocation. |
 | Employee Salary Manager | Calculates employee salary statistics using dynamically allocated memory. |
 | Parking Lot System | Manages parking slot occupancy using arrays. |
